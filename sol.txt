@@ -1,0 +1,5 @@
+1.  when a program needs a file read, it could select as next prozess the filereader which would make it faster, instead of waiting a decade.
+
+2. g/b/a/d/c/f/h/e
+
+3. it would get twice as much cpu time.
